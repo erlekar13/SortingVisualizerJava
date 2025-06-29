@@ -1,0 +1,33 @@
+# 🔢 Sorting Visualizer (Java Swing)
+
+A simple and interactive GUI-based Java application to visualize the step-by-step process of common sorting algorithms. This project is built using Java Swing and focuses on learning DSA through real-time animations.
+
+---
+
+## 📌 Features
+
+- Visualizes 5 Sorting Algorithms:
+  - ✅ Bubble Sort
+  - ✅ Insertion Sort
+  - ✅ Merge Sort
+  - ✅ Quick Sort
+  - ✅ Heap Sort
+-  Bar visualization of array elements
+-  Shuffle functionality to randomize the array
+- Dropdown menu to select and visualize any algorithm
+- Uses Java threads to animate sorting without freezing the UI
+
+---
+
+##  Concepts Reinforced
+
+- Sorting Algorithms (Time and Space Complexity)
+- Recursion (Merge Sort, Quick Sort)
+- Heap Data Structure
+- Java Swing GUI Development
+- Java Multi-threading for UI animation
+
+---
+
+
+
